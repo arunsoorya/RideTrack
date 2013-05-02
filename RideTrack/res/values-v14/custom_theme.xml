@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--     <style name="custom_dialog_theme" parent="@android:style/Theme.Holo.Dialog.NoActionBar"></style> -->
+
+<!--     To style the whole Tabbar -->
+<!--     <style name="customTabBar" parent="@android:style/Widget.TabWidget"> -->
+<!--         <item name="android:showDividers">middle</item> -->
+<!--         <item name="android:divider">@drawable/menu_divider</item> -->
+<!--         <item name="android:dividerPadding">0dp</item> -->
+<!--     </style> -->
+
+</resources> 
